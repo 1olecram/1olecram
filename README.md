@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   
   <!-- HEADER DINÂMICO ESTILO TERMINAL -->
@@ -10,6 +9,7 @@
 <br />
 
 <!-- SESSÃO DE BIO ESTILO LOG DE SISTEMA -->
+
 ### 📂 System_Log / root / bio.md
 
 ```bash
@@ -19,7 +19,7 @@
   Academic_Index: 79.83 GPA
   Location: Belo Horizonte, MG
   Languages: Portuguese (Native) | English (Advanced/C1)
-  
+
 > OBJECTIVE
   Bridging the gap between hardware and software through embedded systems,
   IoT solutions, and high-performance web architecture.
@@ -28,6 +28,7 @@
 <br />
 
 <!-- SESSÃO DE SKILLS (TECH DECK) -->
+
 ### 🛰️ Diagnostic_Scanning: Tech_Deck
 
 **💻 Core & Languages**
@@ -60,36 +61,39 @@
 <br />
 
 <!-- SESSÃO DE EXPERIÊNCIA (FIELD OPERATIONS) -->
+
 ### ⚡ Field_Operations (Mission Log)
 
-| Operational Unit | Role | Achievement Record (Impact) |
-| :--- | :--- | :--- |
-| **Tavros Tech** | Intern | Conducted high-conversion landing page dev with **React JS**, generating positive team feedback. |
-| **Global Link IoT** | Intern | Developed **ESP32 Firmware (C++)** & Full-Stack Django integration for environmental data reading. |
-| **CEFAST-BAJA SAE** | Designer | Secured **4th Place National** by designing hardware/PCB for pilot comfort & braking systems. |
-| **PET-conecTTE** | Volunteer | Taught Arduino programming & organized AI Ethics debates involving CS and Philosophy experts,. |
+| Operational Unit    | Role      | Achievement Record (Impact)                                                                        |
+| :------------------ | :-------- | :------------------------------------------------------------------------------------------------- |
+| **Tavros Tech**     | Intern    | Conducted high-conversion landing page dev with **React JS**, generating positive team feedback.   |
+| **Global Link IoT** | Intern    | Developed **ESP32 Firmware (C++)** & Full-Stack Django integration for environmental data reading. |
+| **CEFAST-BAJA SAE** | Designer  | Secured **4th Place National** by designing hardware/PCB for pilot comfort & braking systems.      |
+| **PET-conecTTE**    | Volunteer | Taught Arduino programming & organized AI Ethics debates involving CS and Philosophy experts.      |
 
 <br />
 
-<!-- SESSÃO DE PROJETOS (CLASSIFIED), -->
+<!-- SESSÃO DE PROJETOS (CLASSIFIED) -->
+
 ### 🛠️ Classified_Projects
 
-*   **[WEB LUX](https://github.com/SEU_USUARIO/NOME-DO-REPO)**
-    *   *Objective:* Hardware/Software link. Luxmeter with real-time graphical plotting via **Django**.
-    *   *Status:* `DEPLOYED`
+- **[WEB LUX](https://github.com/1olecram/web-lux)**
+  - _Objective:_ Hardware/Software link. Luxmeter with real-time graphical plotting via **Django**.
+  - _Status:_ `DEPLOYED`
 
-*   **[BIBLIOTECA M](https://github.com/SEU_USUARIO/NOME-DO-REPO)**
-    *   *Objective:* Reading analytics system using **Python/Django** architecture based on critical analysis of books.
-    *   *Status:* `PROCESSING`
+- **[BIBLIOTECA M](https://github.com/1olecram/biblioteca-m)**
+  - _Objective:_ Reading analytics system using **Python/Django** architecture based on critical analysis of books.
+  - _Status:_ `PROCESSING`
 
 <br />
 
-<!-- SESSÃO DE ESTATÍSTICAS (MATRIX THEME), -->
+<!-- SESSÃO DE ESTATÍSTICAS (MATRIX THEME) -->
+
 ### 📈 Activity_Matrix
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=matrix"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1olecram&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1olecram&layout=compact&theme=matrix"/>
 </div>
 
 <br />
@@ -97,10 +101,9 @@
 <!-- RODAPÉ COM CONTATO -->
 <div align="center">
   <a href="www.linkedin.com/in/mmoreira22" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcelochave059@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </div>
-```
